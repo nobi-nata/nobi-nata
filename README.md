@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=nobi-nata)
-![counter](https://[YourEndpoint].m.pipedream.net)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nobi-nata&repo=Medical-Insurance-Cost-Prediction)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nobi-nata&repo=Hospital-Management-System-)
