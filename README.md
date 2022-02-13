@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=nobi-nata
+![Github stats](https://github-readme-stats.vercel.app/api?username=nobi-nata)
+![counter](https://[YourEndpoint].m.pipedream.net)
