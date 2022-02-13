@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=nobi-nata)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nobi-nata&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobi-nata&layout=compact)](https://github.com/nobi-nata/github-readme-stats)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nobi-nata&repo=Medical-Insurance-Cost-Prediction)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nobi-nata&repo=Hospital-Management-System-)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nobi-nata)](https://github.com/nobi-nata/github-readme-stats)
